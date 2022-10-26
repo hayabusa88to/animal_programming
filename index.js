@@ -30,11 +30,11 @@ $(function(){
     var is_clicked = false
     $('.hyouji_hennkou_botton').click(function(){
       if (is_clicked == false){
-        $('body').css('background-color','#fc4503');
+        $('body').css('background-color','#ff5703');
         is_clicked = true
         
       }else{
-        $('body').css('background-color','#9c5a2f');
+        $('body').css('background-color','#9c3a09');
         is_clicked = false
         
       }

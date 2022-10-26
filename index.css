@@ -18,7 +18,7 @@ header{
     margin-left:10px;
     margin-top:2px;
     font-size: 40px;
-    color: #AF6221;
+    color: #ff5703;
     font-weight: 700;
 }
 
@@ -87,7 +87,7 @@ h2{
 }
 
 body{
-    background-color: #AF6221;
+    background-color: #ff5703;
 }
 
 .animal{
@@ -97,5 +97,15 @@ body{
 .animal2{
     text-decoration: none;
     font-size: 30px;
-    color: #AF6221;
+    color: #ff5703;
 }
+
+.yoko{
+    width: 300px; 
+    border-radius: 30px;
+    margin-bottom: 50px;  
+    height: 250px;
+    object-fit: cover;
+    margin:20 auto;
+}
+
