@@ -67,6 +67,7 @@ footer{
 .box{
     text-align: center;
     column-count: 1;
+    padding: 30px;
     padding-top: 60px;
 }
 
@@ -111,6 +112,6 @@ body{
 }
 
 @media screen and (max-width:768px) {
-    
+
 }
 
