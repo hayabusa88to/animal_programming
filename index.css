@@ -4,6 +4,7 @@
 
 body{
     margin:0;
+    width: 100%;
 }
 
 header{
@@ -107,5 +108,11 @@ body{
     height: 250px;
     object-fit: cover;
     margin:20 auto;
+}
+
+@media screen and (max-width:768px) {
+    header{
+        background-color: #32af21;
+    }
 }
 
